@@ -79,7 +79,7 @@ php -S localhost:8000
 
 ---
 
-📬 Contato
+## 📬 Contato
 Se você tiver alguma dúvida ou sugestão, não hesite em me contatar por e-mail: alexsantos.djesus@gmail.com.
 
 ---
